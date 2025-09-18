@@ -1,0 +1,19 @@
+4.
+(1). My CPU model is AMD Ryzen 5 7530U with Radeon Graphics.
+     Number of cores: 6
+     Core speed: 2.00GHz
+(2). RAM type: DDR4
+         model: K4UBE3D4AA-MGCR
+         speed: 4266 MT/s
+         amount: 16GB
+(3). GPU: AMD Radeon (TM) Graphics
+     Dedicated GPU memory: 512 MB
+(4). Bios version: American Megatrends International, LLC.
+     Last updated: 04/04/2023
+5.
+Yes, my device can be booted by USB.
+
+6.
+My current screen resolution is 2880 x 1800.
+Putting your screen in portrait mode allows you to see more lines during coding for example, which makes their editing easier. In the case of having multiple monitors, putting one of them in portrait mode can help with saving space on your desk. Scrolling on certain websites could also be easier seeing as most of the social media websites for example are designed for portrait mode. It also facilitates reading longer documents because you can see more written lines than on a landscape setting.
+When I change my resolution to 800 x 600, not only does the screen space get minimized and the ratio changes to a smaller one, but the UI elements also look bigger and the pixels are more visible.

@@ -1,0 +1,12 @@
+5.
+How many active drivers are currently running on your system?
+-> 436
+Where are your wifi and network drivers located and what is the name of the drivers?
+-> My wifi and network drivers are located here "C:\WINDOWS\system32\drive" and their names are: oem80.inf, netrasa.inf, netavpna.inf, netsstpa.inf, netvwifimp.inf, oem24.inf, kdnic.inf.
+
+6.1
+My browser is currently using 1,609.9 MB of RAM and 0-0.2% of CPU
+
+6.2
+Browser: Chrome
+Location: C:\Program Files\Google\Chrome\Application

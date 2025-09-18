@@ -1,0 +1,18 @@
+6.2
+-> 77 6F 72 6C 64
+-> 0x00001840 (68 00 65 00 6C 00 6C 6F 00 20 00 77 00 6F 00 72 00 6C 00 64 00 21)
+-> knowing that FF FF FF = white, and 00 00 00 = black, position 1 (1 bit)= 0x0000003E / position 2 (24 bit)= 0x00000036
+
+6.3
+-> When I click on "hello_world.exe" and try to run it, I get a pop-up saying that "This app can't run on your PC. To find a version for your PC, check the software publisher."
+
+-> Despite my PC not being able to open the file, the change of extension did not change the bytes inside the file.
+
+-> When I try to modify the contents of the file "hello_world.txt" and save the changes, it creates a new file named identically. So although I can modify the text in the original file, I cannot save it unless I do it as a new file.
+
+7.
+(1). I only have one disk on my machine.
+(2). Disk model (Friendly name): Micron_2400_MTFDKBA512QFM
+Capacity: 476.94 GB
+Read and write speed: 4,200 MB/s read and 1,800 MB/s write
+(3). My disk has 4 partitions: one of them contains my OS while the other 3 are backup partitions.
